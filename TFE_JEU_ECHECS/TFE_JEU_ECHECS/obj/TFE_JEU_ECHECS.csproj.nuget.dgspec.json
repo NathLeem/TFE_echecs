@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj": {}
+    "H:\\6TI\\Multi\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj": {}
   },
   "projects": {
-    "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj": {
+    "H:\\6TI\\Multi\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
+        "projectUniqueName": "H:\\6TI\\Multi\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
         "projectName": "TFE_JEU_ECHECS",
-        "projectPath": "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
+        "projectPath": "H:\\6TI\\Multi\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
         "packagesPath": "C:\\Users\\200253.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\obj\\",
+        "outputPath": "H:\\6TI\\Multi\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
