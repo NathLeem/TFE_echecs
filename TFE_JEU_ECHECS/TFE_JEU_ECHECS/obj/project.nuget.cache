@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kdPmknmXRgbq/Rp3XGPKmMR2cUxTVV0QXVcoMhrJVFjk1uuGMJFtmZZs4ftyH0xQ3+DcvI9S9PHHCOIJjDjkQ==",
+  "dgSpecHash": "hbPY8lHP1k4fgUaPjxpH1dLWHBgkx60LjhxT7VZMrIq4ZltWgz/noza8IdZTmQxpmVEbdBi/tJGdgwhahAtEmw==",
   "success": true,
-  "projectFilePath": "H:\\6TI\\Multi\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
+  "projectFilePath": "H:\\TFE_echecs\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS\\TFE_JEU_ECHECS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
